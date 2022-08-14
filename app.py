@@ -17,7 +17,7 @@ def sendemail():
 		message = request.form['message']
 
 		# Set your credentials
-		yourEmail = "suraj@geeksforgeeks.org"
+		yourEmail = "m8vikram@gmail.com"
 		yourPassword = "########"
 
 		# Logging in to our email account
